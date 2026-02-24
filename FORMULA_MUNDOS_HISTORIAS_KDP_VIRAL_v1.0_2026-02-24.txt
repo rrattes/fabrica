@@ -1,0 +1,260 @@
+FÓRMULA-MÃE (v1.0) — Criação de Mundos & Histórias “prontas para KU”
+Base: Conselho Alfa (Livro 1: Trégua de Sangue), Trilogia “A Temporada” e Véu Rubro (A Cera do Juramento)
+Data: 2026-02-24
+
+OBJETIVO
+Você só precisa definir 1 coisa: O TEMA.
+O restante é gerado por regras/encaixes (mundo + conflito + romance + ganchos seriados).
+
+──────────────────────────────────────────────────────────────────────────────
+1) INPUT ÚNICO (OBRIGATÓRIO)
+TEMA (1 linha):
+→ Ex.: “mafiosos sobrenaturais em Miami”, “piratas e sereias no Caribe”, “vampiros em Brasília”, “wuxia com lobisomens”.
+
+PRÉ-DEFINIÇÕES (se você não preencher, use o padrão):
+• Subgênero: Paranormal Romance / Dark Romance
+• Tom: adulto, sensual, com perigo real
+• Escala Hot: 3–5 (picos ocasionais 6)
+• Entrega: serial (episódios/volumes) com cliffhanger
+
+──────────────────────────────────────────────────────────────────────────────
+2) MOTOR DE “DNA DO MUNDO” (7 REGRAS IMUTÁVEIS)
+Use estas 7 regras para qualquer tema. Elas garantem “cara de série”:
+
+R1 — PODER TEM UMA INSTITUIÇÃO VISÍVEL
+• Conselho / Diretoria / Corte / Ordem / Clã / Igreja / Sindicato.
+• Ela decide: quem manda, quem vive, quem é caçado.
+
+R2 — O DESEJO VEM COM UMA CLÁUSULA
+• Todo vínculo importante tem contrato: juramento, marca, trégua, dívida, pacto.
+• Romance = atração + obrigação + risco.
+
+R3 — SANGUE / JURAMENTO / SEGREDO (TRÍADE)
+Escolha 1 para ser “o que move a história” e 2 como combustível secundário:
+• Sangue: linhagem, herança, instinto, caça.
+• Juramento: lei, pacto, trégua, promessa.
+• Segredo: identidade, crime, maldição, passado.
+
+R4 — UMA “LEI CRUEL” QUE O LEITOR ENTENDE EM 10s
+Exemplos:
+• “Sem par, você enlouquece.” / “Marca de alfa é sentença.” / “Quebrar juramento apodrece a alma.”
+• “A Temporada” só dura X noites; depois, alguém paga.
+
+R5 — CUSTO FÍSICO (CONSEQUÊNCIA TANGÍVEL)
+• Sempre que alguém usa poder/mentira/quebra regra: dor, febre, cicatriz, perda de controle, sangue na boca, apagão.
+
+R6 — UMA ECONOMIA DE DESEJO
+• Algo “comprável” e moralmente ambíguo: tempo, proteção, status, memória, vida, nome, liberdade, fertilidade, cura.
+
+R7 — UM LUGAR-SÍMBOLO (ÍCONE) QUE APARECE SEMPRE
+• Ex.: salão do Conselho, templo do Véu, arena de Caça, docas, torre, catacumba, boate, palácio da Temporada.
+• O leitor reconhece e volta mentalmente para ali.
+
+Saída (preencha):
+• Instituição: ____________________________
+• Lei cruel (1 frase): _____________________
+• Custo físico: ___________________________
+• Economia de desejo (moeda): _____________
+• Lugar-ícone: ___________________________
+• Tríade (primário/secundários): ___________
+
+──────────────────────────────────────────────────────────────────────────────
+3) SELEÇÃO AUTOMÁTICA DE “ARQUITETURA” (ESCOLHA A QUE CASA COM O TEMA)
+Para precisar só do TEMA, use este “match”:
+
+A) ARQUITETURA CONSELHO (Conselho Alfa / Trégua de Sangue)
+Use quando o tema tem: matilha, gangue, honra, território, caça, hierarquia.
+Pilares:
+• Política de matilha + trégua frágil + marca/instinto.
+Conflito típico:
+• “A trégua existe… até alguém sangrar.”
+
+B) ARQUITETURA TEMPORADA (Trilogia A Temporada)
+Use quando o tema tem: corte, evento, concurso, elite, jogos sociais, rituais.
+Pilares:
+• Um período limitado (a Temporada) + regras de etiqueta + armadilhas.
+Conflito típico:
+• “Você só tem X noites para vencer — e o preço é você.”
+
+C) ARQUITETURA VÉU (Véu Rubro / A Cera do Juramento)
+Use quando o tema tem: religião, segredo, seita, maldição, promessa, ritual.
+Pilares:
+• Juramento material (cera/selo) + pecado/punição + verdade proibida.
+Conflito típico:
+• “Quebrar o juramento te destrói… cumpri-lo te perde.”
+
+(Se o tema mistura tudo: comece por A, adicione o “deadline” de B e o “ritual” de C.)
+
+──────────────────────────────────────────────────────────────────────────────
+4) MATRIZ DE FACÇÕES (SÓ 3 — SEMPRE 3)
+Crie 3 facções para dar movimento. Uma é a Instituição (R1). As outras duas são forças de pressão.
+
+FACÇÃO 1 (Instituição/Lei): ______________________
+• Quer: __________________________
+• Controle: _______________________
+• Prova de poder: _________________
+
+FACÇÃO 2 (Caçadores/Rebeldes): __________________
+• Quer: __________________________
+• Método sujo: ____________________
+• Fraqueza: _______________________
+
+FACÇÃO 3 (Mercadores/Oráculo): ___________________
+• Quer: __________________________
+• Troca: __________________________
+• Segredo que sabe: _______________
+
+Regra: cada facção deve ter 1 frase de “ameaça” e 1 de “sedução”.
+
+──────────────────────────────────────────────────────────────────────────────
+5) ELENCO FIXO (6 FUNÇÕES) — TROQUE A ROUPA, NÃO O ESQUELETO
+Crie personagens pelo FUNÇÃO + FALHA + DESEJO.
+
+1) PROTAGONISTA (a porta do leitor)
+• Desejo: (algo simples e humano) __________________
+• Falha: (algo que estraga tudo) ___________________
+• Segredo: _______________________
+• “Preço” que aceita pagar: ________________________
+
+2) INTERESSE ROMÂNTICO (o perigo gostoso)
+• Poder/status: ___________________
+• Ferida: _________________________
+• Cláusula que impõe: _____________
+• Ponto fraco do coração: __________
+
+3) ANTAGONISTA (não é mal, é “lógica cruel”)
+• Quer: __________________________
+• Justificativa: ___________________
+• Linha que não cruza (ou cruza): ___
+
+4) RIVAL (espelho venenoso)
+• Desejo igual ao do protagonista, mas método pior.
+
+5) MENTOR / ANCIÃO / MADRINHA SOMBRIA
+• Dá regra + exige preço.
+
+6) TESTEMUNHA (amigo/irmã/escudeiro)
+• Humaniza, mas também pode trair por medo.
+
+──────────────────────────────────────────────────────────────────────────────
+6) “CONTRATO DE DESEJO” (A CHAVE DO HOT COM PLOT)
+Todo romance KU que gruda precisa de 3 camadas: Tensão → Proibição → Pacto.
+
+A) TENSÃO (1 cena física curta que prova química)
+• Situação: _______________________
+• Gatilho sensorial: cheiro / calor / voz / toque: _________________
+
+B) PROIBIÇÃO (1 regra que torna o casal impossível)
+• Regra: __________________________
+• Punição se violar: _______________
+
+C) PACTO (o que os obriga a ficar juntos)
+Escolha 1:
+□ Trégua de Sangue  □ Marca/Laço  □ Juramento de Cera  □ Dívida  □ Casamento político  □ Proteção
+Escreva a cláusula em 2 linhas:
+• “Eu te dou _______ se você _______. Mas se você ________, eu ________.”
+
+D) PRAZER + PERIGO (sempre juntos)
+• Toda cena hot deve empurrar a trama (revelar algo, criar ameaça, pagar preço).
+
+──────────────────────────────────────────────────────────────────────────────
+7) ESTRUTURA DO LIVRO 1 (12 BATIDAS — PARA DEVORAR NO KU)
+Use como roteiro. Cada batida = 1–3 capítulos.
+
+1) GANCHO IMEDIATO: o mundo morde o protagonista (lei cruel em ação).
+2) ENCONTRO: química + risco (Tensão A).
+3) QUEBRA DA ROTINA: instituição pressiona / ameaça.
+4) CLÁUSULA APARECE: Proibição B fica clara.
+5) PACTO FORÇADO: eles assinam/aceitam o Pacto C (mesmo relutantes).
+6) PRIMEIRO PREÇO: custo físico (R5) aparece.
+7) MEIO: vitória pequena, mas o antagonista ganha posição.
+8) REVELAÇÃO 1: segredo muda o sentido da relação.
+9) QUEDA: traição/erro; facções apertam.
+10) HOT-CHAVE: cena intensa que muda o tabuleiro (prazer+perigo).
+11) CLÍMAX: confronto com a “lógica cruel” do antagonista.
+12) CLIFFHANGER: ganha-se algo, perde-se algo maior; abre Livro 2.
+
+Regra de ouro KU:
+• A cada 3–5 capítulos, entregar “micro-recompensa”: revelação, beijo, vitória, pista, ameaça.
+
+──────────────────────────────────────────────────────────────────────────────
+8) ARCO DA TRILOGIA (TEMPORADA/CONSELHO/VÉU — FUNCIONA PARA QUALQUER TEMA)
+Livro 1: “Pacto e Ferida”
+• Forma o casal, define lei, cria trégua/juramento, termina com ameaça maior.
+
+Livro 2: “Guerra de Facções”
+• Revela o verdadeiro preço do pacto; rival vira arma; instituições quebram.
+• Termina com escolha impossível (perder amor ou perder mundo).
+
+Livro 3: “Pagamento Final”
+• Verdade total + sacrifício + novo contrato (o mundo muda).
+• Final: o casal “governa” a nova regra ou foge carregando a marca.
+
+──────────────────────────────────────────────────────────────────────────────
+9) BANCO DE GANCHOS (USE 1 POR LIVRO / 1 POR EPISÓDIO)
+Escolha e adapte ao tema:
+
+• “Trégua violada”: sangue derramado invalida pacto.
+• “Marca falha”: o laço não fecha — por quê?
+• “Herança proibida”: o protagonista é o que jurou destruir.
+• “Cera rachada”: alguém mexeu no selo do juramento.
+• “Temporada encurtada”: o prazo cai pela metade.
+• “Caça declarada”: o Conselho autoriza execução.
+• “Dívida antiga”: o amor cobra juros.
+• “Falso vilão”: o antagonista era proteção contra algo pior.
+
+──────────────────────────────────────────────────────────────────────────────
+10) GERADOR RÁPIDO (5 MINUTOS) — PREENCHA E VOCÊ TEM O ESQUELETO
+TEMA: _______________________________________________
+
+Arquitetura escolhida (A/B/C): ________
+Instituição (R1): _____________________
+Lei cruel (R4): _______________________
+Moeda do desejo (R6): ________________
+Lugar-ícone (R7): ____________________
+Tríade (R3): _________________________
+
+Protagonista quer: ____________________
+LI exige: _____________________________
+Proibição: ____________________________
+Pacto: ________________________________
+Antagonista quer: _____________________
+Cliffhanger do Livro 1 (1 frase): _____________________________________________
+
+──────────────────────────────────────────────────────────────────────────────
+11) “PROMESSA DE CAPA + SINOPSE” (PARA KU)
+Fórmula de promessa (1–2 linhas):
+• “Num mundo onde [LEI CRUEL], ela só tem uma saída: [PACTO]. Mas o preço é [CUSTO].”
+
+Sinopse em 5 blocos:
+1) Situação + lei
+2) Protagonista + ferida
+3) Encontro + desejo
+4) Pacto + ameaça
+5) Escolha impossível + cliffhanger
+
+──────────────────────────────────────────────────────────────────────────────
+12) CHECKLIST FINAL (ANTES DE ESCREVER)
+□ A lei cruel está clara em 10 segundos.
+□ O pacto obriga o casal a conviver.
+□ Todo capítulo tem: objetivo → fricção → mudança.
+□ A cada 3–5 capítulos: recompensa.
+□ Hot empurra plot (não é “pausa”).
+□ O final puxa o próximo volume.
+
+──────────────────────────────────────────────────────────────────────────────
+EXEMPLO ULTRA-RÁPIDO (SÓ PARA MOSTRAR COMO FICA)
+TEMA: “vampiros na política de Brasília”
+Arquitetura: B (Temporada) + C (Véu)
+Instituição: Senado do Véu
+Lei: “sem juramento de cera, você não pode falar a verdade”
+Pacto: “ele te protege do escândalo se você virar sua ‘noiva’ na Temporada”
+Cliffhanger: “o selo dela racha — e o Senado descobre quem ela é de verdade”
+
+Depois de preencher os campos:
+Oferecer ao usuário gerar capa em tiff no formato kdp e kindle Unlimited. Precisa ser em tiff na prporção certa. Criar capa como um designer expecialista em capas de livros e diretor de marketing editorial.
+
+Depois, oferecer ão usuário gerar o livro todo, consolidando cada capitulo em um arquivo .TXT. disponibilizar apos isso o arquivo para download.
+
+Oferecer a geração do formato DOCX do livro já ajustado para a publicação no Amazon KDP.
+Fim.
