@@ -15,7 +15,7 @@ TEMA (1 linha):
 PRÉ-DEFINIÇÕES (se você não preencher, use o padrão):
 • Subgênero: Paranormal Romance / Dark Romance
 • Tom: adulto, sensual, com perigo real
-• Escala Hot: 3–5 (picos ocasionais 6)
+• Escala Hot: 3–5 em uma escala de 7 onde 1 é Conversa sensual e 7 é descrição explícita de detalhada de ato sexual (picos ocasionais 6)
 • Entrega: serial (episódios/volumes) com cliffhanger
 • Definir nome do Livro (Guardar)
 • Definir nome da trilogia, se for.
