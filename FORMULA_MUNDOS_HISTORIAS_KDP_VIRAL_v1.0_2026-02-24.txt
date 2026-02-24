@@ -5,6 +5,7 @@ Data: 2026-02-24
 OBJETIVO
 Você só precisa definir 1 coisa: O TEMA.
 O restante é gerado por regras/encaixes (mundo + conflito + romance + ganchos seriados).
+É opcional a definição de sub-genero.
 
 ──────────────────────────────────────────────────────────────────────────────
 1) INPUT ÚNICO (OBRIGATÓRIO)
